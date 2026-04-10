@@ -1,11 +1,15 @@
 SMART STUDENT FILE MANAGEMENT SYSTEM REPORT
-Generated on: 2026-04-10T03:38:28.304186700
+Generated on: 2026-04-10T09:25:10.348209
 Student file path: C:\Users\HP\eclipse-workspace\FileHandling\student.txt
 ------------------------------------------------------------
-Total Students: 1
-Topper: tanu (ID: 1, Marks: 100)
+Total Students: 5
+Topper: Anu (ID: 2, Marks: 99)
 -----------------------------------------------------------------------------
 ID              Name                      Department           Marks     
 -----------------------------------------------------------------------------
-1               tanu                      comp                 100       
-------------------------------------------------------------
+3               tanvi                     Mechanical           87        
+5               Akshata                   Civil                88        
+1               Tanu                      Computer             96        
+4               Tejas                     Software             96        
+2               Anu                       Chemical             99        
+-----------------------------------------------------------------------------
