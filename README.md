@@ -81,12 +81,13 @@ The application follows a **modular design approach**:
 
 ## 📸 Project Demonstration
 
-| Feature           | Screenshot                  |
-| ----------------- | --------------------------- |
-| 🏠 Main Menu      | ![](images/menu.png)        |
-| ➕ Add Student     | ![](images/add_stud.jpeg) |
-| 🔍 Sort Student | ![](images/sort.jpeg)      |
-| ❌ Delete Student  | ![](images/delete.jpeg)      |
+| Feature           | Screenshot                 |
+| ----------------- | -------------------------- |
+| 🏠 Main Menu      | ![](images/menu.png)      |
+| ➕ Add Student    | ![](images/add_stud.jpeg) |
+| 🔍 Sort Student   | ![](images/sort.jpeg)     |
+| ❌ Delete Student | ![](images/delete.jpeg)   |      
+|📊 Report Output   |![](images/report.jpeg)    |
 
 > 📌 *Ensure all images are placed inside the `images/` folder in your project directory.*
 
