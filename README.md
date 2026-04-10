@@ -84,9 +84,9 @@ The application follows a **modular design approach**:
 | Feature           | Screenshot                  |
 | ----------------- | --------------------------- |
 | 🏠 Main Menu      | ![](images/menu.png)        |
-| ➕ Add Student     | ![](images/add-student.png) |
-| 🔍 Search Student | ![](images/search.png)      |
-| ❌ Delete Student  | ![](images/delete.png)      |
+| ➕ Add Student     | ![](images/add-student.jpeg) |
+| 🔍 Search Student | ![](images/search.jpeg)      |
+| ❌ Delete Student  | ![](images/delete.jpeg)      |
 
 > 📌 *Ensure all images are placed inside the `images/` folder in your project directory.*
 
