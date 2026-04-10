@@ -42,6 +42,7 @@ FileHandling/
 │── bin/                     # Compiled class files
 │── student.txt              # Data storage file
 │── report.txt               # Generated output/report
+│── images/                  # Screenshots folder
 │── README.md                # Project documentation
 ```
 
@@ -78,6 +79,19 @@ The application follows a **modular design approach**:
 
 ---
 
+## 📸 Project Demonstration
+
+| Feature           | Screenshot                  |
+| ----------------- | --------------------------- |
+| 🏠 Main Menu      | ![](images/menu.png)        |
+| ➕ Add Student     | ![](images/add-student.png) |
+| 🔍 Search Student | ![](images/search.png)      |
+| ❌ Delete Student  | ![](images/delete.png)      |
+
+> 📌 *Ensure all images are placed inside the `images/` folder in your project directory.*
+
+---
+
 ## ⚠️ Limitations
 
 * Console-based interface (no graphical UI)
@@ -109,7 +123,6 @@ The application follows a **modular design approach**:
 ## 👩‍💻 Author
 
 **Tanuja Khatal**
-
 
 ---
 
