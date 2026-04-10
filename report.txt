@@ -1,0 +1,11 @@
+SMART STUDENT FILE MANAGEMENT SYSTEM REPORT
+Generated on: 2026-04-10T03:38:28.304186700
+Student file path: C:\Users\HP\eclipse-workspace\FileHandling\student.txt
+------------------------------------------------------------
+Total Students: 1
+Topper: tanu (ID: 1, Marks: 100)
+-----------------------------------------------------------------------------
+ID              Name                      Department           Marks     
+-----------------------------------------------------------------------------
+1               tanu                      comp                 100       
+------------------------------------------------------------
